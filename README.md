@@ -1,6 +1,6 @@
 ---
 title: "About Blog"
-permalink: "/Blog Content/"
+permalink: "/About Blog/"
 layout: page
 ---
 
